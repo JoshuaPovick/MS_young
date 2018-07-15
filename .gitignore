@@ -1,0 +1,7 @@
+*.txt
+*.zip
+*.docx
+*.fits
+Converting_to_MScoord.ipynb
+MSCoordinates/
+pmgal_yumi.py
